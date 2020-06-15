@@ -4,7 +4,7 @@
 
 .search label.toggleMenu {
     display: none;
-    color: rgb(124, 122, 122);
+    color: rgb(126, 122, 122);
 }
 
 @media all and (max-width: 700px) {
